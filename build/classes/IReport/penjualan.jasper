@@ -1,0 +1,526 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <style type="text/css">
+    a {text-decoration: none}
+  </style>
+</head>
+<body text="#000000" link="#000000" alink="#000000" vlink="#000000">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td width="50%">&nbsp;</td><td align="center">
+
+<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table class="jrPage" cellpadding="0" cellspacing="0" border="0" style="empty-cells: show; width: 842px; border-collapse: collapse; background-color: white;">
+<tr valign="top" style="height:0">
+<td style="width:20px"></td>
+<td style="width:5px"></td>
+<td style="width:30px"></td>
+<td style="width:41px"></td>
+<td style="width:22px"></td>
+<td style="width:18px"></td>
+<td style="width:5px"></td>
+<td style="width:56px"></td>
+<td style="width:77px"></td>
+<td style="width:39px"></td>
+<td style="width:109px"></td>
+<td style="width:55px"></td>
+<td style="width:51px"></td>
+<td style="width:94px"></td>
+<td style="width:60px"></td>
+<td style="width:15px"></td>
+<td style="width:7px"></td>
+<td style="width:41px"></td>
+<td style="width:32px"></td>
+<td style="width:36px"></td>
+<td style="width:4px"></td>
+<td style="width:5px"></td>
+<td style="width:20px"></td>
+</tr>
+<tr valign="top" style="height:20px">
+<td colspan="23">
+</td>
+</tr>
+<tr valign="top" style="height:66px">
+<td>
+</td>
+<td colspan="5" rowspan="4">
+<img src="penjualan.jasper_files/img_0_0_2" style="height: 102px" alt=""/></td>
+<td colspan="8" style="background-color: #666666; padding: 4px; text-indent: 0px;  vertical-align: bottom;text-align: left;">
+<span style="font-family: Times New Roman; color: #FFFFFF; font-size: 50px; line-height: 1.1499023;">Toko Darma Computer</span></td>
+<td style="background-color: #666666; ">
+</td>
+<td style="background-color: #666666; ">
+</td>
+<td style="background-color: #666666; ">
+</td>
+<td style="background-color: #666666; ">
+</td>
+<td style="background-color: #666666; ">
+</td>
+<td style="background-color: #666666; ">
+</td>
+<td style="background-color: #666666; ">
+</td>
+<td colspan="2">
+</td>
+</tr>
+<tr valign="top" style="height:4px">
+<td>
+</td>
+<td colspan="17">
+</td>
+</tr>
+<tr valign="top" style="height:3px">
+<td>
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td colspan="3" rowspan="2" style="background-color: #CC0000; text-indent: 0px;  vertical-align: middle;text-align: right;">
+<span style="font-family: SansSerif; color: #FFFFFF; font-size: 12px; line-height: 1.2578125;">Selasa 23 Juli 2019</span></td>
+<td style="background-color: #CC0000; ">
+</td>
+<td colspan="2">
+</td>
+</tr>
+<tr valign="top" style="height:29px">
+<td>
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td colspan="3" style="background-color: #CC0000; text-indent: 0px; text-align: right;">
+<span style="font-family: Times New Roman; color: #FFFFFF; font-size: 22px; line-height: 1.1499023;">Laporan Penjualan</span></td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td style="background-color: #CC0000; ">
+</td>
+<td colspan="2">
+</td>
+</tr>
+<tr valign="top" style="height:3px">
+<td colspan="23">
+</td>
+</tr>
+<tr valign="top" style="height:18px">
+<td>
+</td>
+<td colspan="4" style="border: 1px solid #666666; text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 14px; line-height: 1.1499023; font-weight: bold;">Nama Pembeli</span></td>
+<td colspan="3" style="border: 1px solid #666666; text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 14px; line-height: 1.1499023; font-weight: bold;">Komponen</span></td>
+<td style="border: 1px solid #666666; text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 14px; line-height: 1.1499023; font-weight: bold;">Brands</span></td>
+<td colspan="2" style="border: 1px solid #666666; text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 14px; line-height: 1.1499023; font-weight: bold;">Model</span></td>
+<td style="border: 1px solid #666666; text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 14px; line-height: 1.1499023; font-weight: bold;">Harga</span></td>
+<td style="border: 1px solid #666666; text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 14px; line-height: 1.1499023; font-weight: bold;">Jumlah</span></td>
+<td style="border: 1px solid #666666; text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 14px; line-height: 1.1499023; font-weight: bold;">Total Harga</span></td>
+<td style="border: 1px solid #666666; text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 14px; line-height: 1.1499023; font-weight: bold;">Tanggal</span></td>
+<td colspan="3" style="border: 1px solid #666666; text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 14px; line-height: 1.1499023; font-weight: bold;">Kembali</span></td>
+<td colspan="3" style="border: 1px solid #666666; text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 14px; line-height: 1.1499023; font-weight: bold;">Karyawan</span></td>
+<td colspan="2">
+</td>
+</tr>
+<tr valign="top" style="height:18px">
+<td>
+</td>
+<td colspan="4" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Yusuf</span></td>
+<td colspan="3" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Processor</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">AMD</span></td>
+<td colspan="2" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">AMD A12 9800K 3.8GHZ 4CORE</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1455000</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1455000</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">2019-07-20</span></td>
+<td colspan="3" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">0</span></td>
+<td colspan="3" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Admin</span></td>
+<td colspan="2">
+</td>
+</tr>
+<tr valign="top" style="height:18px">
+<td>
+</td>
+<td colspan="4" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Yusuf</span></td>
+<td colspan="3" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Processor</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">AMD</span></td>
+<td colspan="2" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">AMD A12 9800K 3.8GHZ 4CORE</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1455000</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1455000</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">2019-07-20</span></td>
+<td colspan="3" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">0</span></td>
+<td colspan="3" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Admin</span></td>
+<td colspan="2">
+</td>
+</tr>
+<tr valign="top" style="height:18px">
+<td>
+</td>
+<td colspan="4" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Warthakusuma</span></td>
+<td colspan="3" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Processor</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">AMD</span></td>
+<td colspan="2" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">AMD A4 6300 3.7GHZ </span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">465000</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">465000</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">2019-07-20</span></td>
+<td colspan="3" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">0</span></td>
+<td colspan="3" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Admin</span></td>
+<td colspan="2">
+</td>
+</tr>
+<tr valign="top" style="height:18px">
+<td>
+</td>
+<td colspan="4" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Supriadi</span></td>
+<td colspan="3" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Motherboard</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Asus</span></td>
+<td colspan="2" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Asus H170 PRO GAMING</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">2750000</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">2750000</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">2019-07-20</span></td>
+<td colspan="3" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">0</span></td>
+<td colspan="3" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Admin</span></td>
+<td colspan="2">
+</td>
+</tr>
+<tr valign="top" style="height:18px">
+<td>
+</td>
+<td colspan="4" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">yusuf</span></td>
+<td colspan="3" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Processor</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">AMD</span></td>
+<td colspan="2" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">AMD A10 7870K 3.9GHZ</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1525000</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1525000</span></td>
+<td style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">2019-07-22</span></td>
+<td colspan="3" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">0</span></td>
+<td colspan="3" style="border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Admin</span></td>
+<td colspan="2">
+</td>
+</tr>
+<tr valign="top" style="height:18px">
+<td>
+</td>
+<td colspan="4" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">qwe</span></td>
+<td colspan="3" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Motherboard</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Asus</span></td>
+<td colspan="2" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">Asus H170 PRO GAMING</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">2750000</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">1</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">2750000</span></td>
+<td style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">2019-07-22</span></td>
+<td colspan="3" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 10px; line-height: 1.1499023;">0</span></td>
+<td colspan="3" style="background-color: #F0EFEF; border: 1px solid #000000; text-indent: 0px;  vertical-align: middle;text-align: left;">
+</td>
+<td colspan="2">
+</td>
+</tr>
+<tr valign="top" style="height:174px">
+<td colspan="23">
+</td>
+</tr>
+<tr valign="top" style="height:1px">
+<td colspan="2">
+</td>
+<td colspan="20" style="border-top: 1px solid #999999; ">
+</td>
+<td>
+</td>
+</tr>
+<tr valign="top" style="height:9px">
+<td colspan="23">
+</td>
+</tr>
+<tr valign="top" style="height:18px">
+<td colspan="3">
+</td>
+<td style="text-indent: 0px; text-align: left;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 12px; line-height: 1.1499023;">Jakarta,</span></td>
+<td colspan="4" style="text-indent: 0px; text-align: left;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 12px; line-height: 1.1499023;">Selasa 23 Juli 2019</span></td>
+<td colspan="15">
+</td>
+</tr>
+<tr valign="top" style="height:11px">
+<td colspan="23">
+</td>
+</tr>
+<tr valign="top" style="height:16px">
+<td colspan="3">
+</td>
+<td colspan="5" style="text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 12px; line-height: 1.1499023;">Pimpinan</span></td>
+<td colspan="15">
+</td>
+</tr>
+<tr valign="top" style="height:47px">
+<td colspan="23">
+</td>
+</tr>
+<tr valign="top" style="height:16px">
+<td colspan="3">
+</td>
+<td colspan="5" style="text-indent: 0px; text-align: center;">
+<span style="font-family: Times New Roman; color: #000000; font-size: 12px; line-height: 1.1499023;">(Paraf/Tanda Tangan)</span></td>
+<td colspan="15">
+</td>
+</tr>
+<tr valign="top" style="height:7px">
+<td colspan="23">
+</td>
+</tr>
+<tr valign="top" style="height:3px">
+<td>
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td>
+</td>
+</tr>
+<tr valign="top" style="height:20px">
+<td>
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td colspan="3" style="background-color: #000000; text-indent: 0px;  vertical-align: middle;text-align: right;">
+<span style="font-family: Times New Roman; color: #FFFFFF; font-size: 10px; line-height: 1.1499023;">Page 1 of</span></td>
+<td colspan="2" style="background-color: #000000; text-indent: 0px;  vertical-align: middle;text-align: left;">
+<span style="font-family: Times New Roman; color: #FFFFFF; font-size: 10px; line-height: 1.1499023;">&nbsp;1</span></td>
+<td style="background-color: #000000; ">
+</td>
+<td>
+</td>
+</tr>
+<tr valign="top" style="height:2px">
+<td>
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td style="background-color: #000000; ">
+</td>
+<td>
+</td>
+</tr>
+<tr valign="top" style="height:20px">
+<td colspan="23">
+</td>
+</tr>
+</table>
+
+<![if IE]>
+<script>
+var links = document.querySelectorAll('link.jrWebFont');
+setTimeout(function(){ if (links) { for (var i = 0; i < links.length; i++) { links.item(i).href = links.item(i).href; } } }, 0);
+</script>
+<![endif]>
+</td><td width="50%">&nbsp;</td></tr>
+</table>
+</body>
+</html>
