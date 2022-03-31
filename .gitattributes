@@ -1,0 +1,7 @@
+*.java linguist-detectable=true 
+
+*.js linguist-detectable=false 
+
+*.html linguist-detectable=false 
+saya
+*.xml linguist-detectable =    false
